@@ -1,5 +1,10 @@
 <h1>Hi, I'm Sherilyn! <br/><a href="https://github.com/sherilynzr">Packaging Engineer</a>, <a href="https://www.linkedin.com/in/sherilynrong/">Aspiring Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/sherilyn_cs888">YouTuber</a></h1>
 
+<h2> Current CyberSecurity Projects:</h2>
+- <b>Golden Coast Nutraceuticals (GCN)</b>
+  - [About the Company]
+
+
 <h2>👨‍💻 Future CyberSecurity Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
