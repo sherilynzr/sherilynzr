@@ -44,6 +44,8 @@
 - **CISO Assistant CE** — Building real GRC artifacts in a live tool
 - **ISO 27001:2022** — Annex A control mapping
 - **SOC 2 Trust Services Criteria** — Audit readiness basics
+- - **WiCyS 2025 — AI Cyber GRC Workshop**
+  + [AI Risk Assessment Scenarios](https://github.com/sherilynzr/ai-grc-workshop)
 
 ---
 
