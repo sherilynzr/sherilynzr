@@ -1,11 +1,12 @@
 <h1>Hi, I'm Sherilyn! </h1>
 
-<span class="b">Packaging Engineer → GRC Analyst.</span>
-
-<span class="c">Bridging 8+ years of quality engineering, CAPA management,</span>
-<span class="c">and supplier audits into cybersecurity governance, risk, and compliance.</span>
-
-<span class="c"> 📍 Based in downtown Los Angeles, CA · Targeting hybrid and remote-friendly GRC roles.</span>
+<span class="c"> I've spent 8+ years finding compliance gaps before they become problems — across dangerous goods regulations, supplier governance, and operational risk environments.</span>
+ 
+<span class="c"> Now I'm channeling that same lens into cybersecurity GRC.</span>
+ 
+<span class="c"> I'm a CRISC candidate building this portfolio to demonstrate what I already know how to do: identify risk, map controls, and translate compliance requirements into something the business can actually act on.</span>
+ 
+<span class="c"> 📍 Los Angeles, CA · Open to remote and hybrid GRC-related roles </span>
 
 
 <h2>🔐 GRC Portfolio — Golden Coast Nutraceuticals (GCN)</h2>
